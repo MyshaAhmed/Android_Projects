@@ -1,2 +1,3 @@
-# Android_Projects
-This Repo contains small app projects
+# Attendance Management App Project
+<br>
+This Repo contains a project on Attendance Management
